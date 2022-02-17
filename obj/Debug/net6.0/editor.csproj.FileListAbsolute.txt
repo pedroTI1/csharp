@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\editor.exe
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\editor.deps.json
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\editor.runtimeconfig.json
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\editor.dll
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\ref\editor.dll
+C:\Users\pedro\Desktop\code\Editor\bin\Debug\net6.0\editor.pdb
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.AssemblyInfo.cs
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.dll
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\ref\editor.dll
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.pdb
+C:\Users\pedro\Desktop\code\Editor\obj\Debug\net6.0\editor.genruntimeconfig.cache
